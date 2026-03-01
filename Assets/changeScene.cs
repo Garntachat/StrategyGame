@@ -13,6 +13,11 @@ public class changeScene : MonoBehaviour
         SceneManager.LoadScene("Mission");
     }
 
+    public void LoadMainMenu()
+    {
+        SceneManager.LoadScene("mainmenu");
+    }
+
     public void LoadByName()
     {
         SceneManager.LoadScene(name);
