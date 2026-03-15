@@ -23,6 +23,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/stat.unity
     guid: 5e74fcde240b01f4eb7e7b67a0b43b78
+  - enabled: 1
+    path: Assets/Scenes/recruitstat.unity
+    guid: 230b7b540c5c68c4583486eca4d14134
+  - enabled: 1
+    path: Assets/Scenes/Soldierstat.unity
+    guid: 188c66aa610b4294180167e5f699d0e6
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 1d696c566a64bb14d9188713f8178088
+  - enabled: 1
+    path: Assets/Scenes/Loadout.unity
+    guid: 135c6598b82302941a0f584102419867
+  - enabled: 1
+    path: Assets/Scenes/Store.unity
+    guid: 341611d5a623e984aab628bb2fb47e58
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
